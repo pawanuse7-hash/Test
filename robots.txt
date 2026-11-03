@@ -1,0 +1,7 @@
+# DealFinds India – robots.txt
+# Everything public may be crawled. If you host on a different address,
+# update the Sitemap line below to match.
+User-agent: *
+Allow: /
+
+Sitemap: https://pawanuse7-hash.github.io/Test/sitemap.xml
