@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="DealFinds India logo">
+<path d="M6 60V30C6 15 17.6 3 32 3s26 12 26 27v30z" fill="#232a78"/>
+<path d="M6 51h52v9H6z" fill="#b0262f"/>
+<path d="M32 30v-3.4c0-1.6 1.2-2.4 2.3-3 1.7-.9 2.7-2.1 2.7-3.8a5 5 0 1 0-10 0" fill="none" stroke="#f5a623" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 30 13.6 43.2a2.7 2.7 0 0 0 1.6 4.9h33.6a2.7 2.7 0 0 0 1.6-4.9z" fill="none" stroke="#f5a623" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
